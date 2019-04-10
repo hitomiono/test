@@ -1,0 +1,123 @@
+
+
+img{
+    width: 25%;
+}
+
+header ul {
+float: left;
+ width: 100%;
+ height: 40px;
+line-height: 40px;
+ background-color: black;
+ color: white;   
+}
+
+header ul li{
+ float:left;
+ font-size: 15px;
+ list-style: none;
+ margin-left: 40px;
+}
+
+.left{
+    float: left;
+    width: 60%;
+}
+
+.right{ 
+    float: left;
+    width: 40%;
+    margin-top: 30px;
+}
+
+
+.left h1{
+    border-left: 5px solid black;
+    border-bottom: 3px solid black;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+
+.left form{
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 3px;
+    font-size:20px;
+    margin-bottom: 30px;
+    
+}
+
+.left form div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.left form h3{
+   margin: 0px;
+   padding-left: 10px;
+   border-left: 3px red solid;
+   margin-left: 20px;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 3px;
+    border-bottom: 2px solid gray;
+    font-size: 15px;
+}
+
+.kiji{
+    clear: both;
+    width: 95%;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 1px;
+    font-size:20px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.kiji h3{
+    border-bottom:3px gray solid;
+    padding-bottom: 0px;
+    margin: 10px;
+} 
+
+.kiji .contents{
+    margin-left: 20px;
+} 
+
+.right h2{
+    border-bottom: 3px dotted lightgray;
+    margin-left: 20px;
+    
+}
+
+.right ul li{
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+footer{
+    clear: both;
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    line-height: 40px;
+    font-size: 15px;
+    text-align: center
+}
+
+
