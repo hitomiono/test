@@ -1,0 +1,15 @@
+
+public class Test {
+
+
+	public static void main(String[] args){
+		Robot aibo=new Robot();
+		Robot asimo=new Robot();
+		Robot pepper=new Robot();
+
+		aibo.talk();
+		asimo.walk();
+		pepper.run();
+	}
+
+}

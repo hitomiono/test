@@ -1,0 +1,10 @@
+package jp.co.internous.action;
+
+public class HumanAddless {
+	public String addless;
+	public String addless(){
+		addless="東京";
+		return addless;
+	}
+
+}

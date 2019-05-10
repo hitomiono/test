@@ -1,0 +1,17 @@
+
+public class Robot {
+
+	public String name1="aibo";
+	public String name2="asimo";
+	public String name3="pepper";
+
+	public void talk(){
+		System.out.println(this.name1+"が話す");
+	}
+    public void walk(){
+    	System.out.println(this.name2+"が歩く");
+    }
+    public void run(){
+    	System.out.println(this.name3+"が走る");
+    }
+}

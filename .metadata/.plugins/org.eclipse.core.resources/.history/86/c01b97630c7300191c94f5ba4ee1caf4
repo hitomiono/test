@@ -1,0 +1,16 @@
+
+public class Test {
+
+
+	public static void main(String[] args){
+		Robot aibo=new Robot();
+
+System.out.println(aibo.name);
+		aibo.talk();
+		aibo.walk();
+		aibo.run();
+
+
+	}
+
+}

@@ -1,0 +1,16 @@
+
+public class Test {
+
+
+	public static void main(String[] args){
+		Person aibo=new Person();
+
+		System.out.println(aibo.name);
+		System.out.println(aibo.age);
+		aibo.talk();
+		aibo.walk();
+		aibo.run();
+
+	}
+
+}

@@ -4,15 +4,11 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 
-		
-		
-		
-		String[] name={"あ","い","う"};
-		System.out.println(name[2]);
-		
-		
-		
-		
+		System.out.println("H");
+
+
+
+
 	}
 
 }
